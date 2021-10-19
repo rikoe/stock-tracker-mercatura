@@ -24,5 +24,8 @@
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "warn"
     },
-    "ignorePatterns": "vite.config.json"
+    "ignorePatterns": [
+        "vite.config.json",
+        "*.test.js"
+    ]
 }
