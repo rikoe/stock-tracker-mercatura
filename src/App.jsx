@@ -1,11 +1,10 @@
 import React from "react"
-import Graph from "./components/Graph"
+import KeyStatistics from "./components/KeyStatistics"
 
 function App() {
   return (
     <div className="App">
-      <Graph />
-      Hey
+      <KeyStatistics />
     </div>
   )
 }
