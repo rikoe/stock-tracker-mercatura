@@ -1,9 +1,10 @@
 import React from "react"
+import { Graph } from "./components/Graph"
 
 function App() {
   return (
     <div className="App">
-      <p>Hello World</p>
+      <Graph />
     </div>
   )
 }
