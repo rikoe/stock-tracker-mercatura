@@ -1,1 +1,1 @@
-export { default, comp2 } from "./Graph"
+export { default } from "./Graph"
